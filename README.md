@@ -52,6 +52,14 @@ Includes, but is not limited to articles, documentation, papers etc.
 - [Survey of Prompting Methods](https://arxiv.org/pdf/2107.13586.pdf)
 - [Prefix Tuning: Optimizing Continuous Prompts for Generation](https://aclanthology.org/2021.acl-long.353.pdf)
 
+# 📚 Specification & Architecture Engineering
+
+Tools and frameworks for grounding LLMs and coding agents with structured specifications, acceptance criteria, and system contracts.
+
+## Tools & Workflows
+- [MySpec](https://myspec.dev?utm_source=github&utm_medium=referral&utm_campaign=gh-flamato-awesome-llm-engineering) : Specification-Driven Development (SDD) workbench for structuring LLM prompts with EARS requirement syntax, architecture contracts, and automated validation gates.
+
+
 ## Contribute
 
 Contributions are always welcome!
